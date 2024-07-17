@@ -6,7 +6,7 @@ function showLetter() {
 
         I love you more than words can say, and I look forward to creating countless memories with you. You are my heart, my soul, my everything.
 
-        I'm sorry for what I did to you honestly, if our arguments hurt you, it hurts me more. Thank you for coming into my life, I will never leave you
+        I'm sorry for what I did to you honestly, if our arguments hurt you, it hurts me more. Thank you for coming into my life, I won't leave you. I won't hurt you emotionally again, I promise.
 
         Your baby,
         Arcel
