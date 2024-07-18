@@ -1,12 +1,12 @@
 function showLetter() {
     const letterContent = `
-        My Dearest baby,
+        Hi baby hannah! I just want you to remember that I always love you, kahit nag tatampo or badtrip ka saakin. I've been courting you for 4 months now, and I'm happy. I'll 
 
-        From the moment our eyes met, I knew my life would never be the same. Your smile lights up my world, and your laughter is the sweetest melody I've ever heard. Every day with you is a beautiful adventure, and I am so grateful to have you by my side.
+        court you every day even when the day comes that we're officially together. Thank you for not giving up on me, even though I sometimes overthink a lot. I miss you 
 
-        I love you more than words can say, and I look forward to creating countless memories with you. You are my heart, my soul, my everything.
+        baby, ikaw lagi iniisip ko umaga hanggang gabi. Ikaw ang babaeng nagpatibok ng puso ko.  I love you more than words can say, and I look forward to creating countless 
 
-        I'm sorry for what I did to you honestly, if our arguments hurt you, it hurts me more. Thank you for coming into my life, I won't leave you. I won't hurt you emotionally again, I promise.
+        memories with you. You are my heart, my soul, my everything.
 
         Your baby,
         Arcel
